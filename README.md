@@ -1,6 +1,8 @@
 # Shopping Trend Analysis 🛍️📊
 
-
+<div align="center">
+  <img src="https://github.com/Syed-Abid/Shopping-Trend-Analysis/blob/main/Shopping%20Logo.png" alt="Shopping Logo">
+</div>
 
 Explore the world of retail through our Shopping Trend Analysis project! 🛍️📈 We've conducted a comprehensive analysis on shopping trends using Power BI, providing you with captivating dashboards and actionable insights to navigate the dynamic landscape of consumer behavior.
 
