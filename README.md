@@ -42,6 +42,6 @@ Contributions are encouraged! Whether you want to enhance the analysis or introd
 Questions or suggestions? Reach out to us:
 
 - **Your Name**
-- **Email:** [YourEmail@example.com](mailto:YourEmail@example.com)
+- **Email:** [YourEmail@example.com](mailto:abidhassanjaffri31@gmail.com)
 
 We're eager to hear your thoughts and insights! Happy analyzing!
