@@ -14,7 +14,9 @@ Explore the world of retail through our Shopping Trend Analysis project! 🛍️
 
 ## 📈 Dashboard Preview
 
-*Insert screenshots or GIFs of your Power BI dashboards here.*
+<div align="center">
+  <img src="https://github.com/Syed-Abid/Shopping-Trend-Analysis/blob/main/Shopping%20Trend%20Dashboard.png" alt="Shopping Trend Dashboard">
+</div>
 
 ## 🛠️ Setup and Usage
 
@@ -34,10 +36,6 @@ Contributions are encouraged! Whether you want to enhance the analysis or introd
 
 - Open issues to discuss potential changes.
 - Submit pull requests to collaborate on improvements.
-
-## 📝 License
-
-This project is licensed under the [MIT License](LICENSE) - see the [LICENSE](LICENSE) file for details.
 
 ## 📬 Contact
 
