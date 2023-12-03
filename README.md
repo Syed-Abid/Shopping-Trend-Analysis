@@ -41,7 +41,7 @@ Contributions are encouraged! Whether you want to enhance the analysis or introd
 
 Questions or suggestions? Reach out to us:
 
-- **Your Name**
+- **Syed Abid Hassan**
 - **Email:** [abidhassanjaffri31@gmail.com](mailto:abidhassanjaffri31@gmail.com)
 
 We're eager to hear your thoughts and insights! Happy analyzing!
