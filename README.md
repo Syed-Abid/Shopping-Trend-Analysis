@@ -18,6 +18,14 @@ Explore the world of retail through our Shopping Trend Analysis project! 🛍️
   <img src="https://github.com/Syed-Abid/Shopping-Trend-Analysis/blob/main/Shopping%20Trend%20Dashboard.png" alt="Shopping Trend Dashboard">
 </div>
 
+## Tools Used
+
+<div style="display: flex; justify-content: space-between;">
+  <img src="https://github.com/Syed-Abid/Product-Performance-Insights/blob/main/sql%20server.png" style="margin-right: 10px;" width="100" />
+  <img src="https://github.com/Syed-Abid/Product-Performance-Insights/blob/main/power%20bi.png" style="margin-right: 10px;" width="100" />
+  <img src="https://github.com/Syed-Abid/Product-Performance-Insights/blob/main/excel.png" width="100" />
+</div>
+
 ## 🛠️ Setup and Usage
 
 To clone the repository:
