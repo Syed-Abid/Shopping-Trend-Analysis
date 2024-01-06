@@ -18,7 +18,7 @@ Explore the world of retail through our Shopping Trend Analysis project! 🛍️
   <img src="https://github.com/Syed-Abid/Shopping-Trend-Analysis/blob/main/Shopping%20Trend%20Dashboard.png" alt="Shopping Trend Dashboard">
 </div>
 
-## Tools Used
+## 🧰 Tools Used
 
 <div style="display: flex; justify-content: space-between;">
   <img src="https://github.com/Syed-Abid/Product-Performance-Insights/blob/main/sql%20server.png" style="margin-right: 10px;" width="100" />
@@ -26,7 +26,7 @@ Explore the world of retail through our Shopping Trend Analysis project! 🛍️
   <img src="https://github.com/Syed-Abid/Product-Performance-Insights/blob/main/excel.png" width="100" />
 </div>
 
-## Insights
+## 💡 Insights
 -  As, mentioned in the dashboard this dataset mentions two genders(Male and Female) and according to the analysis Male spend more money in shopping than Females.
 -  Female uses more promo codes than Male, which means female customers should be targeted more when it comes to Promo Codes.
 -  The most preferred shipping method is "Free Shipping" which means brands must offer Free Shipping to grab more customers.
