@@ -30,7 +30,7 @@ Explore the world of retail through our Shopping Trend Analysis project! 🛍️
 -  As, mentioned in the dashboard this dataset mentions two genders(Male and Female) and according to the analysis**Male spend more money in shopping than Females**.
 -  **Female uses more promo codes than Male**, which means female customers should be targeted more when it comes to Promo Codes.
 -  The most preferred shipping method is **Free Shipping** which means brands must offer Free Shipping to grab more customers.
--  The most preferred payment method by customers is "PayPal". So, stores must have PayPal as one of their payment methods to increase their sale.
+-  The most preferred payment method by customers is **PayPal**. So, stores must have PayPal as one of their payment methods to increase their sale.
 -  The most preferred season for shopping is "Spring". So, most normal sales can be conducted in this season.
 
 
